@@ -28,7 +28,7 @@ function createBot() {
   console.log('--------------------------------------------------');
 
   bot = mineflayer.createBot({
-    username: 'botshan',        
+    username: 'botshanm',        
     version: '1.21.9',           
     skipValidation: true,
     checkTimeoutInterval: 60000,
